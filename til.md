@@ -1,0 +1,1 @@
+09-20-21: TIL that Sequel Ace doesn't always warn you about overwriting a file.  Also I learned about Command - Space Bar
