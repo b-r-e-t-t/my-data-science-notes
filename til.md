@@ -4,3 +4,4 @@
 09-27-21: The power of the subquery (and that it is really hard to make predictions, especially about the future (per Yogi B.)).
 09-28-2021: TIL quick ways to build pivot tables in SQL.
 10-06-2021: TIL quick ways to strip data from strings in python (while... s[1]...)
+10-13-2021: TIL the power of Numpy and the arrays that you can create from them.  Goodby For loops... unless of course you're coding in a situation where you can't use the library.
