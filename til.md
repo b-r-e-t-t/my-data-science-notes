@@ -6,3 +6,4 @@
 10-06-2021: TIL quick ways to strip data from strings in python (while... s[1]...)
 10-13-2021: TIL the power of Numpy and the arrays that you can create from them.  Goodby For loops... unless of course you're coding in a situation where you can't use the library.
 10-14-2021: TIL About the the terror of bark scorpions.
+10-15-2021: TIL about the power of chaining methods.
