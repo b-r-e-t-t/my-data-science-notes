@@ -8,3 +8,4 @@
 10-14-2021: TIL About the the terror of bark scorpions.
 10-15-2021: TIL about the power of chaining methods.
 10-18-2021: TIL gitignore is your friend when it comes to keeping sensitive data off your repository
+10-26-2021: TIL good data and good analysis are not enough... you need a good story.
