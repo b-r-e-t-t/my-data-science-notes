@@ -11,3 +11,4 @@
 10-26-2021: TIL good data and good analysis are not enough... you need a good story.
 10-27-2021: TIL Tableau is awesome... and expensive.
 11-5-2021: TIL That we don't 'prove' anything.  We fail to disprove.
+11-12-2021: TIL if there's any chance you're going to model.  Split the data before you explore.
